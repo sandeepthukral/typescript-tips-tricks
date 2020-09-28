@@ -18,3 +18,5 @@ There are 4 TS config options that define the module resolution and compilation 
 - moduleResolution
 
 The first 3 affect your output, while the latter affects the way the compiler searches for your modules to resolve them and bundle.
+
+More info here [https://medium.com/@tommedema/typescript-confusion-tsconfig-json-module-moduleresolution-target-lib-explained-65db2c44b491]
